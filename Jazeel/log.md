@@ -13,4 +13,4 @@
 21/06/2017
 
 1. went through the tutorial Laravel on windows with Laragon : https://laravelista.com/series/laravel-on-windows-with-laragon
-2. 
+2. Started with Section 3
