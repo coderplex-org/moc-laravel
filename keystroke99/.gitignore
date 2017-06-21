@@ -1,0 +1,27 @@
+# Composer
+/vendor
+
+# NPM
+/node_modules
+npm-debug.log
+
+# Laravel
+/public/storage
+/storage/*.key
+Homestead.yaml
+Homestead.json
+.env
+/storage/database.sqlite
+
+# Editors and IDE
+.idea
+/.idea
+*.swp
+
+# PHPStorm helper file
+.phpstorm.meta.php
+_ide_helper.php
+
+# Other
+.DS_Store
+thumbs.db
