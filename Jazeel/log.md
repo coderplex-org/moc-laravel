@@ -13,4 +13,7 @@
 21/06/2017
 
 1. went through the tutorial Laravel on windows with Laragon : https://laravelista.com/series/laravel-on-windows-with-laragon
-2. Started with Section 3
+2. Started with Section 3 - completed routing.
+Note : Didnt upload the code yet, as i would like to learn git first. Hence tomorrow im going to focus on git.
+
+22/6/2017
