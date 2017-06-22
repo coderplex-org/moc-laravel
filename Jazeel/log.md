@@ -17,3 +17,7 @@
 Note : Didnt upload the code yet, as i would like to learn git first. Hence tomorrow im going to focus on git.
 
 22/6/2017
+
+1. Went through the video : https://www.youtube.com/watch?v=HVsySz-h9r4&feature=youtu.be . Figuring out if i have to install git for committing to github. Its a bit confusing. Ill go through it once more tomorrow to get a grasp of it. 
+
+
