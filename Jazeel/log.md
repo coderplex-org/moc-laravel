@@ -9,3 +9,11 @@
 2. Since the current version of php i had with wamp 2.1 was not suitable for laravel. Hence downloaded the latest php version and installed it
 3. Faced a roadblock as wamp is not working now. Spend almost 4 hours trying to get it sorted.
 4. Finally uninstalled wamp and installed laragon, which is working perfectly fine.
+
+21/06/2017
+
+1. went through the tutorial Laravel on windows with Laragon : https://laravelista.com/series/laravel-on-windows-with-laragon
+2. Started with Section 3 - completed routing.
+Note : Didnt upload the code yet, as i would like to learn git first. Hence tomorrow im going to focus on git.
+
+22/6/2017
