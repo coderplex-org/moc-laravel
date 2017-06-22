@@ -1,0 +1,9 @@
+20-06-2017
+Started section 1 from code academy and completed 8 lessons.
+
+21-06-2017
+Completed section1 and 2.
+Done with installation of wamp and laravel.
+
+22-06-2017
+Completed section 3 videos.
