@@ -4,3 +4,11 @@
 - Pushed into remote repository
 
 Conclusion - Fresh Laravel installation
+
+# 27/06/2017
+
+- Completed upto Section 5 (Eloquent Relationships)
+- Pushed into remote repository
+- Repository URL: (Learn Laravel)[https://github.com/iamshaikrasool/learn-laravel]
+
+Conclusion - Eloquent Relationships are well understood
